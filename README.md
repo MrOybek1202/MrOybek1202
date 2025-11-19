@@ -20,6 +20,7 @@
 |------------------|------------------|
 | **JavaScript**   | ⭐⭐⭐☆☆ (Intermediate) |
 | **C#**           | ⭐⭐⭐⭐☆ (Intermediate+) |
+| **C++**          | ⭐⭐⭐⭐☆ (Intermediate+) |
 | **HTML/CSS**     | ⭐⭐⭐⭐⭐ (Advanced) |
 | **Python**       | ⭐⭐☆☆☆ (Beginner) |
 | **English**      | ⭐⭐⭐☆☆(Intermediate) |
