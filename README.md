@@ -19,7 +19,7 @@
 | Язык             | Уровень         |
 |------------------|------------------|
 | **JavaScript**   | ⭐⭐⭐☆☆ (Intermediate) |
-| **TypeScript**   | ⭐⭐⭐⭐☆ (Intermediate+) |
+| **C#**           | ⭐⭐⭐⭐☆ (Intermediate+) |
 | **HTML/CSS**     | ⭐⭐⭐⭐⭐ (Advanced) |
 | **Python**       | ⭐⭐☆☆☆ (Beginner) |
 | **English**      | ⭐⭐⭐☆☆(Intermediate) |
