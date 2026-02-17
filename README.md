@@ -18,9 +18,9 @@
 
 | Язык             | Уровень         |
 |------------------|------------------|
-| **JavaScript**   | ⭐⭐⭐☆☆ (Intermediate) |
+| **JavaScript**   | ⭐⭐⭐⭐☆ (Advanced) |
 | **C#**           | ⭐⭐⭐⭐☆ (Intermediate+) |
-| **C++**          | ⭐⭐⭐⭐☆ (Intermediate+) |
+| **C++**          | ⭐⭐☆☆☆ (Beginner) |
 | **HTML/CSS**     | ⭐⭐⭐⭐⭐ (Advanced) |
 | **Python**       | ⭐⭐☆☆☆ (Beginner) |
 | **English**      | ⭐⭐⭐☆☆(Intermediate) |
